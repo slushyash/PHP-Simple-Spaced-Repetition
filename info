@@ -1,0 +1,8 @@
+status value (pending, new, active)
+	active: 2 sub
+		due: (the last review date + interval < now)
+		not due: (the last review date + interval > now)
+front side
+back side
+last review date
+streak
